@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DeyserShop/static/css/main.2541c9af.css",
-    "main.js": "/DeyserShop/static/js/main.b2115781.js",
+    "main.css": "/DeyserShop/static/css/main.80f29dc1.css",
+    "main.js": "/DeyserShop/static/js/main.e563ef1e.js",
     "static/media/photoColeccion.jpeg": "/DeyserShop/static/media/photoColeccion.d8efc685b7da7852d07c.jpeg",
     "static/media/photoAbout.jpeg": "/DeyserShop/static/media/photoAbout.279f09b6afbfac15d0a1.jpeg",
     "static/media/photoSlideOne.jpeg": "/DeyserShop/static/media/photoSlideOne.90bf783602fb9d419d25.jpeg",
@@ -27,11 +27,11 @@
     "static/media/whats.svg": "/DeyserShop/static/media/whats.5960a89532a76320347f9c0e3705417f.svg",
     "index.html": "/DeyserShop/index.html",
     "static/media/fb.svg": "/DeyserShop/static/media/fb.4572f3143062ec3dfd7aea11e6bcf578.svg",
-    "main.2541c9af.css.map": "/DeyserShop/static/css/main.2541c9af.css.map",
-    "main.b2115781.js.map": "/DeyserShop/static/js/main.b2115781.js.map"
+    "main.80f29dc1.css.map": "/DeyserShop/static/css/main.80f29dc1.css.map",
+    "main.e563ef1e.js.map": "/DeyserShop/static/js/main.e563ef1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2541c9af.css",
-    "static/js/main.b2115781.js"
+    "static/css/main.80f29dc1.css",
+    "static/js/main.e563ef1e.js"
   ]
 }
